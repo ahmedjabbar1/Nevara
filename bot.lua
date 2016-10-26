@@ -37,9 +37,9 @@ just send a sticker
 
 photo🌄 to sticker🏰
 just send a photo
-[Source](https://github.com/ahmeedsalam/CPTSBOT) 👮
-[Developer](https://telegram.me/amody6) 🕵
-[CH](https://telegram.me/api_cli) 🌐
+[Source](https://github.com/ahmedjabbar1/Nevara) 👮
+[Developer](https://telegram.me/ahmedjabbar1) 🕵
+[CH](https://telegram.me/devtop) 🌐
 ]] 
 
 -------
